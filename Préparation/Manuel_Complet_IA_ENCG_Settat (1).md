@@ -45,10 +45,13 @@ Ce manuel universitaire constitue un support de cours exhaustif sur l'Intelligen
 4. [Chapitre 4 — Apprentissage Non Supervisé](#chapitre-4)
 5. [Chapitre 5 — Deep Learning](#chapitre-5)
 6. [Chapitre 6 — Natural Language Processing (NLP)](#chapitre-6)
-7. [Chapitre 7 — IA en Marketing](#chapitre-7)
-8. [Chapitre 8 — IA en Commerce International](#chapitre-8)
-9. [Chapitre 9 — IA en Supply Chain Management](#chapitre-9)
-10. [Chapitre 10 — MLOps et Déploiement](#chapitre-10)
+7. [Chapitre 7 — IA en Finance](#chapitre-7)
+8. [Chapitre 8 — IA en Controle Audit et Conseil](#chapitre-8)
+9. [Chapitre 9 — IA en Marketing](#chapitre-9)
+10. [Chapitre 10 — IA en Commerce International](#chapitre-10)
+11. [Chapitre 11 — IA en Supply Chain Management](#chapitre-11)
+12. [Chapitre 12 — MLOps et Déploiement](#chapitre-12)
+13. [Conclusion](#Conclusion)
 
 ---
 
