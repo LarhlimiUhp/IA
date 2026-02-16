@@ -1,6 +1,8 @@
 # COURS COMPLET : INTELLIGENCE ARTIFICIELLE
 ## Finance, Contrôle Audit et Conseil, Gestion, Marketing, Commerce International & Supply Chain Management
 
+## A. Larhlimi
+
 **ENCG Settat - 4ème année**  
 **Année 2025-2026**
 
