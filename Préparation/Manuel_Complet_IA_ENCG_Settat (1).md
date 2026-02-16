@@ -1,7 +1,7 @@
 # COURS COMPLET : INTELLIGENCE ARTIFICIELLE
 ## Finance, Contrôle Audit et Conseil, Gestion, Marketing, Commerce International & Supply Chain Management
 
-**ENCG Settat - Niveau Master - 4ème année**  
+**ENCG Settat - 4ème année**  
 **Année 2025-2026**
 
 ---
