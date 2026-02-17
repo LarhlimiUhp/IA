@@ -1,7 +1,11 @@
 # COURS COMPLET : INTELLIGENCE ARTIFICIELLE
 ## Finance, Contrôle Audit et Conseil, Marketing, Commerce International & Supply Chain Management
 
-**ENCG Settat - Niveau Master - 4ème année**  
+## Abderrahim.larhlimi@uhp.ac.ma
+## Maitre de Conférence, ENSGS
+## Université Hassan Premier
+
+**Niveau: 4ème année**  
 **Année 2025-2026**
 
 ---
