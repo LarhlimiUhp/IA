@@ -2,7 +2,7 @@
 ## Finance, Contrôle Audit et Conseil, Marketing, Commerce International & Supply Chain Management
 
 ## Abderrahim.larhlimi@uhp.ac.ma
-![larhlimi.png]()
+![profil.png]()
 
 ## Maître de Conférence, ENSGS
 ## Université Hassan Premier
