@@ -213,7 +213,7 @@ La différence avec la programmation traditionnelle :
 **Approche traditionnelle (programmation classique)** :
 ```python
 # Règles explicites programmées manuellement
-if "viagra" in email or "lottery" in email or "prince" in email:
+if "lottery" in email or "prince" in email:
     return "SPAM"
 else:
     return "HAM" (légitime)
@@ -223,7 +223,7 @@ Problème : Les spammeurs contournent facilement ces règles
 **Approche Machine Learning** :
 ```python
 # 1. Collecter des exemples
-emails_spam = ["Buy viagra now!", "You won the lottery!", ...]
+emails_spam = ["You won the lottery!", ...]
 emails_ham = ["Meeting at 3pm", "Project report attached", ...]
 
 # 2. Entraîner un modèle
