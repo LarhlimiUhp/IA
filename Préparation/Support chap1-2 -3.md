@@ -194,6 +194,9 @@ Le Machine Learning (ML) est une sous-discipline de l'IA qui se concentre sur le
 Formellement, un programme informatique apprend de l'expérience E par rapport à une classe de tâches T et une mesure de performance P, si sa performance sur T, mesurée par P, s'améliore avec l'expérience E.
 
 **Équation fondamentale du ML** :
+
+
+![ SYSTÈME ML](https://github.com/LarhlimiUhp/IA/blob/main/Pr%C3%A9paration/prediction.png)
 ```
 Apprendre : Données + Algorithme → Modèle
 Prédire  : Nouvelles Données + Modèle → Prédictions
