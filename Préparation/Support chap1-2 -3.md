@@ -3,7 +3,7 @@
 
 ## Abderrahim.larhlimi@uhp.ac.ma
 ![](https://github.com/LarhlimiUhp/IA/blob/main/Pr%C3%A9paration/profil.png)
-https://github.com/LarhlimiUhp/IA/blob/main/Pr%C3%A9paration/profil.png
+
 
 ## Maître de Conférence, ENSGS
 ## Université Hassan Premier
