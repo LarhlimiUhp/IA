@@ -15,7 +15,7 @@
 
 ## Présentation du Manuel
 
-Ce manuel universitaire constitue un support de cours exhaustif sur l'Intelligence Artificielle appliquée aux domaines de la finance, de la gestion, du marketing, du commerce international et du supply chain management. Il est conçu pour être autonome, ne nécessitant pas de présentation orale complémentaire. Chaque concept, formule mathématique et algorithme est expliqué en profondeur avec des exemples métiers concrets et des cas d'entreprises réels.
+Ce manuel universitaire constitue un support de cours exhaustif sur l'Intelligence Artificielle appliquée aux domaines de la Finance, du Contrôle Audit et Conseil, du Marketing, du Commerce Internationalet du supply chain management.  Chaque concept, formule mathématique et algorithme est expliqué en profondeur avec des exemples métiers concrets et des cas d'entreprises réels.
 
 ### Objectifs Pédagogiques
 
