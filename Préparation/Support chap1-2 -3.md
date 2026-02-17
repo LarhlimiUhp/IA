@@ -113,6 +113,8 @@ Les entreprises prédisent quels employés risquent de démissionner :
 
 ### 1.1.5 Schéma Explicatif (Description Textuelle)
 
+![ SYSTÈME D'INTELLIGENCE ARTIFICIELLE](https://github.com/LarhlimiUhp/IA/blob/main/Pr%C3%A9paration/IA.png)
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │              SYSTÈME D'INTELLIGENCE ARTIFICIELLE            │
