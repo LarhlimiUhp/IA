@@ -2,6 +2,7 @@
 ## Finance, Contrôle Audit et Conseil, Marketing, Commerce International & Supply Chain Management
 
 ![Texte alternatif](https://github.com/LarhlimiUhp/IA/blob/main/Support%20IA/LARHLIMI.jpg)
+<img src="https://raw.githubusercontent.com/LarhlimiUhp/IA/main/Support%20IA/LARHLIMI.jpg" alt="LARHLIMI" width="400">
 
 ## Abderrahim.larhlimi@uhp.ac.ma
 ![](https://github.com/LarhlimiUhp/IA/blob/main/Pr%C3%A9paration/profil.png)
